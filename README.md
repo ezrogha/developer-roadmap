@@ -60,6 +60,9 @@ If you think that these can be improved in any way, please do suggest.
 
 ![DevOps Roadmap](./img/devops.png)
 
+## iOS Roadmap
+![iOS Roadmap](https://i.redd.it/ix44k24k9ik01.png)
+
 ## 🚦 Wrap Up
 
 If you think any of the roadmaps can be improved, feel free to discuss it in the issues. Also, I will continue to improve this, so you might want to watch this repository or subscribe at [roadmap.sh](http://roadmap.sh) to revisit.
